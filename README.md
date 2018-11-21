@@ -1,1 +1,1 @@
-# -debittech-retail-x86
+# debittech-retail-x86
